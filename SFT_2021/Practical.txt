@@ -1,0 +1,52 @@
+
+<!--//////////////////////////////////////////////////////////-->
+<!--//  Here starts the bulk content of "Practical.html"  ////-->
+<!--//////////////////////////////////////////////////////////-->
+
+<tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="center" class="bold"><h3>Practical info</h3></div></td>
+    <td>&nbsp;</td>
+  </tr>
+<tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="left"class="bodyText">
+
+<br>
+- Accommodation:
+<UL>
+<LI>
+if you need help in finding an accommodation during
+your stay at GGI, please contact
+<a href="mailto:ggihousing@fi.infn.it" class="navText">GGI Housing Office</a>
+</UL>
+- Eating in Florence:
+<UL>
+<LI>
+<a href="./Eating.pdf">An informal list of eating places in Florence</a>
+<br>
+<LI>
+<a href="./Eating_2.pdf">My restaurant experiences in Florence</a>, by Tony Guttmann
+</UL>
+- Transportation:
+<UL>
+<LI>
+<a target="_blank" href="http://www.ggi.infn.it/visitinfo.html">How to reach GGI</a>
+<LI>
+<a target="_blank"  href="http://www.ataf.net/en/timetables-and-routes/timetables-and-routes/line-38.aspx?idC=180&idO=0&Linea=38&LN=en-US">Bussino</a>,
+a small bus, n. 38A, connecting  Porta Romana and GGI;
+tickets available at newspaper kiosks and tobacconists
+<LI>
+<a target="_blank"  href="http://www.ataf.net/">Ataf</a> (public transport company in Florence area)
+</UL>
+- <a target="_blank" href="https://www.visitflorence.com/">Further info about Florence</a> <br><br>
+- <a target="_blank" href="http://www.operadifirenze.it/en/">Opera di Firenze</a>
+<br>
+<br>
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+<!--//////////////////////////////////////////////////////////-->
+<!--//  Here ends the bulk content of "Practical.html"  //////-->
+<!--//////////////////////////////////////////////////////////-->
