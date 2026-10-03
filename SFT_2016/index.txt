@@ -1,0 +1,121 @@
+<!--/////////////////////////////////////// //////////////////--> 
+<!--////////////   Till here, all the same   /////////////////-->  
+<!--//////////////////////////////////////////////////////////-->  
+
+<!--////////////   Beginning of main text   //////////////////-->  
+  <tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="center"> <span class="bold"></span>
+      </div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+  <tr> <td>&nbsp;</td> <td colspan="2"><div align="justify"class="bodyText"> 
+
+The aim of the school is to bring together PhD students with interests
+in low-dimensional quantum field theory, conformal field theory and
+integrable systems, and their applications to statistical mechanics
+and condensed matter systems, and help them building a solid and
+specialized background on these subjects. The school provides sets of
+postgraduate lectures covering introductory topics as well as recent
+developments in the field.
+
+<br><br> Lectures will be scheduled four hours each morning, for a
+total amount of about forty hours, over two weeks. Presentations will
+be given on the blackboard. The afternoon will be devoted to
+exercises, study, and discussions with lecturers and senior
+participants. A desk and standard research facilities will be provided
+to all participants.
+
+<br><br> The school can admit up to forty participants. Accomodation
+for two weeks in twin rooms, in apartments with cooking facilities,
+will be provided for a total price of about 3-400 &euro. Financial
+support to accomodation expenses may be provided, upon request, to at
+most twenty participants.
+
+
+<br><br> The courses will be officially part of the Italian
+Ph.D. training program for the universities that have joined the
+initiative. For this purpose there will be the possibility of a final
+exam with the lecturers.
+
+<br><br> Deadline for application: 15 November 2015.
+
+<br><br>
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+<!--////////////   End of main text   //////////////////-->  
+
+
+<!--////////////   Beginning of division line   //////////////////-->  
+  <tr> 
+          <td>&nbsp;</td>
+    <td colspan="2"><hr></td>  
+  <td width="12%" >&nbsp;</td>
+  </tr>
+<!--////////////   End of division line   //////////////////-->  
+
+
+<!--////////////   Beginning of Program   //////////////////-->  
+<tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="center" class="bold"><h3>Lecturers</h3></div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+<tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="left"class="bodyText">
+
+
+
+<a href="https://www.asc.ox.ac.uk/person/18">Paul Fendley</a> 
+(University of Oxford):
+<i>Lattice models and topological order</i>
+<br><br>
+
+<a href="https://www.cmth.bnl.gov/RobertKonik.shtml">Robert Konik</a> 
+(Brookhaven National Laboratory):
+<i>Studying perturbed conformal and integrable field theories using the Truncated Spectrum Approach:  overview and applications to low dimensional strongly correlated systems</i>
+<br><br>
+
+<a href="https://tccm.pks.mpg.de/?page_id=65">Frank Pollmann</a> 
+(MPI-PCS, Dresden): 
+<i>Characterization of topological orders starting from microscopic Hamiltonians</i>
+<br><br>
+
+<a href="https://sites.google.com/site/slavarychkov/home">Slava Rychkov</a> 
+(CERN):
+<i>Conformal Field Theory methods and applications in D&gt;2</i>
+<br><br>
+
+<a href="https://pisatheorygroup.pi.infn.it/staff/vicari-ettore">Ettore Vicari</a> 
+(Universit&agrave; di Pisa):
+<i>Renormalization-group theory of thermal and quantum critical phenomena</i>
+<br><br>
+
+
+
+<!--
+&nbsp;&nbsp;&nbsp;&#42; <i>to be confirmed</i>
+-->
+
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+<!--
+
+      </div></td>
+  </tr>
+
+-->
+
+<!--////////////   End of Program   //////////////////-->  
+
+<!--/////////////////////////////////////// //////////////////--> 
+<!--////////////   Below here, all the same    ///////////////-->  
+<!--//////////////////////////////////////////////////////////-->  
