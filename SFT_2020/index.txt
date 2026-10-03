@@ -1,0 +1,118 @@
+<!--/////////////////////////////////////// //////////////////--> 
+<!--////////////   Till here, all the same   /////////////////-->  
+<!--//////////////////////////////////////////////////////////-->  
+
+<!--////////////   Beginning of main text   //////////////////-->  
+  <tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="center"> <span class="bold"></span>
+      </div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr> <td>&nbsp;</td> <td colspan="2"><div align="justify"class="bodyText"> 
+
+The aim of the school is to bring together PhD students with interests
+in low-dimensional quantum field theory, conformal field theory and
+integrable models, and their applications to statistical mechanics
+and condensed matter systems, and to help them building a solid and
+specialized background on these subjects. The school provides sets of
+postgraduate lectures covering introductory topics as well as recent
+developments in the field.
+
+<br><br> Lectures will be scheduled four hours each morning, for a
+total amount of about forty hours, over two weeks. Presentations will
+be given on the blackboard. The afternoon will be devoted to
+exercises, study, and discussions with lecturers and senior
+participants. A desk and standard research facilities will be provided
+to all participants.
+
+<br><br> The school can admit up to forty participants. Accomodation
+for two weeks in twin rooms will be provided for a total price of
+about 400 &euro;. Financial support to accomodation expenses may be
+provided, upon request, to about thirty participants.
+
+<br><br> The courses can be included in the the Ph.D. curricula of Italian Universities and abroad. If necessary, a final exam on the courses can be taken. 
+
+<br><br> Deadline for application: 15 November 2019.
+
+<br><br>
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+<!--////////////   End of main text   //////////////////-->  
+
+
+<!--////////////   Beginning of division line   //////////////////-->  
+  <tr> 
+          <td>&nbsp;</td>
+    <td colspan="2"><hr></td>  
+  <td width="12%" >&nbsp;</td>
+  </tr>
+<!--////////////   End of division line   //////////////////-->  
+
+
+<!--////////////   Beginning of Program   //////////////////-->  
+<tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="center" class="bold"><h3>Lecturers</h3></div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+<tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="left"class="bodyText">
+
+
+
+
+<a href="http://felix.physics.sunysb.edu/~abanov/">Alexander Abanov</a>
+(SUNY at Stony Brook):
+<i>Topology and geometry in condensed matter physics. Toy models.</i>
+<br><br>
+
+
+<a href="https://profiles.stanford.edu/vedika-khemani">Vedika Khemani</a>
+(Stanford University):
+<i>Topology and Symmetry Breaking in Periodically Driven Systems.</i>
+<br><br>
+
+<a href="https://physics.berkeley.edu/people/faculty/joel-moore">Joel Moore</a>
+(University of California, Berkeley):
+<i> Introduction to topological phases of electrons.</i>
+<br><br>
+
+<a href="https://people.sissa.it/~mussardo/">Giuseppe Mussardo</a>
+(SISSA, Trieste):
+<i>Two-dimensional conformal field theory: a primer.</i>
+<br><br>
+
+
+<a href="http://paolaverrucchi.weebly.com">Paola Verrucchi</a>
+(ISC-CNR, Florence):
+<i>Quantum processes: from quantum computation to many-body physics, and back.</i>
+<br><br>
+
+
+
+<!--
+&nbsp;&nbsp;&nbsp;&#42; <i>to be confirmed</i>
+-->
+
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+<!--
+
+      </div></td>
+  </tr>
+
+-->
+
+<!--////////////   End of Program   //////////////////-->  
+
+<!--/////////////////////////////////////// //////////////////--> 
+<!--////////////   Below here, all the same    ///////////////-->  
+<!--//////////////////////////////////////////////////////////-->  
