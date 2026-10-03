@@ -1,0 +1,25 @@
+
+body { 
+	margin: 0 auto;
+	background: #2f777c;#D3D3D3;	 
+	height: 100%; 
+	width: 100%;
+	font: 11pt/12pt Optima;
+	padding-left: 15%;
+	 overflow-x: hidden;
+	 overflow-y: hidden;
+}
+
+/* The sidebar menu */
+.sidenav {
+ 
+  width: 15%; /* Set the width of the sidebar */ 
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  color: white;
+  background-color:#2f777c;
+  overflow-x: hidden;   /* Disable horizontal scroll */
+  padding-top: 20px;
+}

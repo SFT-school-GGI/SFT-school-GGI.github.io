@@ -1,0 +1,18 @@
+#####################################################################
+NB: the only relevant www directory is SFT.
+the directory SFTschool contains only webpages of schools till 2022. 
+#####################################################################
+
+The last edition of SFT school with its own, indepedent, web page is
+2021.
+
+Starting from SFT-2022 the only web page is that on GGI website.
+
+The directories SFT_2014, ... , SFT_2021, contains the sources of the
+various webpages.
+
+The directories SFT_2022, ... , are devoted to, and contains only
+lecture notes and bonus material.
+
+Thus, starting from 2022, only active files are
+Practical_body.html  and Previous_body.html .
