@@ -1,0 +1,118 @@
+<!--/////////////////////////////////////// //////////////////--> 
+<!--////////////   Till here, all the same   /////////////////-->  
+<!--//////////////////////////////////////////////////////////-->  
+
+<!--////////////   Beginning of main text   //////////////////-->  
+  <tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="center"> <span class="bold"></span>
+      </div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+  <tr> <td>&nbsp;</td> <td colspan="2"><div align="justify"class="bodyText"> 
+
+The aim of the school is to bring together PhD students with interests
+in low-dimensional quantum field theory, conformal field theory and
+integrable systems, and their applications to statistical mechanics
+and condensed matter systems, and help them building a solid and
+specialized background on these subjects. The school provides sets of
+postgraduate lectures covering introductory topics as well as recent
+developments in the field.
+
+<br><br> Lectures will be scheduled four hours each morning, for a
+total amount of about forty hours, over two weeks. Presentations will
+be given on the blackboard. The afternoon will be devoted to
+exercises, study, and discussions with lecturers and senior
+participants. A desk and standard research facilities will be provided
+to all participants.
+
+<br><br> The school can admit up to forty participants. Accomodation
+for two weeks in twin rooms, in apartments with cooking facilities,
+will be provided for a total price of about 350-400 &euro;. Financial
+support to accomodation expenses may be provided, upon request, to at
+most twenty participants.
+
+
+<br><br> The courses will be officially part of the Italian
+Ph.D. training program for the universities that have joined the
+initiative. For this purpose there will be the possibility of a final
+exam with the lecturers.
+
+<br><br> Deadline for application: 15 November 2016.
+
+<br><br>
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+<!--////////////   End of main text   //////////////////-->  
+
+
+<!--////////////   Beginning of division line   //////////////////-->  
+  <tr> 
+          <td>&nbsp;</td>
+    <td colspan="2"><hr></td>  
+  <td width="12%" >&nbsp;</td>
+  </tr>
+<!--////////////   End of division line   //////////////////-->  
+
+
+<!--////////////   Beginning of Program   //////////////////-->  
+<tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="center" class="bold"><h3>Lecturers</h3></div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+<tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="left"class="bodyText">
+
+<a href="https://lptms.u-psud.fr/membres/adluca/">Andrea De Luca</a>
+(Universit&eacute; Paris-Sud, Orsay):
+<i>From quantum to classical integrability: applications to field theories</i>
+<br><br>
+
+<a href="https://www-thphys.physics.ox.ac.uk/people/FabianEssler/">Fabian Essler</a>
+(University of Oxford):
+<i>Introduction to non-equilibrium dynamics in
+integrable many-particle systems</i>
+<br><br>
+
+<a href="https://people.sissa.it/~gambassi/">Andrea Gambassi</a>
+(SISSA, Trieste):
+<i>From stochastic dynamics to statistical field theory</i>
+<br><br>
+
+<a href="https://chaos.fmf.uni-lj.si/prosen">Tomaz Prosen</a>
+(University of Ljubljana):
+<i>Exactly solvable open quantum many-body systems</i>
+<br><br>
+
+<a href="https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2276754">Jacopo Viti</a>
+(UFRN, Natal):
+<i>Aspects of quantum transport in low dimensions</i>
+<br><br>
+
+<!--
+&nbsp;&nbsp;&nbsp;&#42; <i>to be confirmed</i>
+-->
+
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+<!--
+
+      </div></td>
+  </tr>
+
+-->
+
+<!--////////////   End of Program   //////////////////-->  
+
+<!--/////////////////////////////////////// //////////////////--> 
+<!--////////////   Below here, all the same    ///////////////-->  
+<!--//////////////////////////////////////////////////////////-->  
