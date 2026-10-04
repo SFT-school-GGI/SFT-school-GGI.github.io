@@ -1,0 +1,116 @@
+<!--/////////////////////////////////////// //////////////////--> 
+<!--////////////   Till here, all the same   /////////////////-->  
+<!--//////////////////////////////////////////////////////////-->  
+
+<!--////////////   Beginning of main text   //////////////////-->  
+  <tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="center"> <span class="bold"></span>
+      </div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+  <tr> <td>&nbsp;</td> <td colspan="2"><div align="justify"class="bodyText"> 
+
+The aim of the school is to bring together PhD students with interests
+in low-dimensional quantum field theory, conformal field theory and
+integrable systems, and their applications to statistical mechanics
+and condensed matter systems, and help them building a solid and
+specialized background on these subjects. The school provides sets of
+postgraduate lectures covering introductory topics as well as recent
+developments in the field.
+
+<br><br> Lectures will be scheduled four hours each morning, for a
+total amount of about forty hours, over two weeks. Presentations will
+be given on the blackboard. The afternoon will be devoted to
+exercises, study, and discussions with lecturers and senior
+participants. A desk and standard research facilities will be provided
+to all participants.
+
+<br><br> The school can admit up to forty participants. Accomodation
+for two weeks in twin rooms will be provided for a total price of
+about 400 &euro;. Financial support to accomodation expenses may be
+provided, upon request, to at most twenty participants.
+
+
+<br><br> The courses will be officially part of the Italian
+Ph.D. training program for the universities that have joined the
+initiative. For this purpose there will be the possibility of a final
+exam with the lecturers.
+
+<br><br> Deadline for application: 15 November 2017.
+
+<br><br>
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+<!--////////////   End of main text   //////////////////-->  
+
+
+<!--////////////   Beginning of division line   //////////////////-->  
+  <tr> 
+          <td>&nbsp;</td>
+    <td colspan="2"><hr></td>  
+  <td width="12%" >&nbsp;</td>
+  </tr>
+<!--////////////   End of division line   //////////////////-->  
+
+
+<!--////////////   Beginning of Program   //////////////////-->  
+<tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="center" class="bold"><h3>Lecturers</h3></div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+<tr> 
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="left"class="bodyText">
+
+<a href="https://theory.fi.infn.it/cappelli/">Andrea Cappelli</a>
+(INFN, Florence):
+<i>Introduction to topological states of matter</i>
+<br><br>
+
+<a href="https://www.ictp.it/research/cmsp/members/long-term-visiting-researchers/marcello-dalmonte.aspx">Marcello Dalmonte</a>
+(ICTP, Trieste):
+<i>Topological phases in cold-atom systems</i>
+<br><br>
+
+<a href="https://lptms.u-psud.fr/satya-majumdar/">Satya Majumdar</a>
+(LPTMS, Universit&eacute; Paris-Sud, Orsay):
+<i>Introduction to random matrices</i>
+<br><br>
+
+<a href="https://www.psi.ch/cmt/markus-mueller">Markus M&uuml;ller</a>
+(Paul Scherrer Institut, Villigen):
+<i>Many-body localization</i>
+<br><br>
+
+<a href="https://www.professoren.tum.de/en/spohn-herbert/">Herbert Spohn</a>
+(Technische Universit&auml;t Munchen):
+<i>Kardar-Parisi-Zhang universality class</i>
+<br><br>
+
+<!--
+&nbsp;&nbsp;&nbsp;&#42; <i>to be confirmed</i>
+-->
+
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+<!--
+
+      </div></td>
+  </tr>
+
+-->
+
+<!--////////////   End of Program   //////////////////-->  
+
+<!--/////////////////////////////////////// //////////////////--> 
+<!--////////////   Below here, all the same    ///////////////-->  
+<!--//////////////////////////////////////////////////////////-->  
